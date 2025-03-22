@@ -1,0 +1,48 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs & temp files
+*.log
+*.out
+*.tmp
+
+# Virtual environments
+.venv/
+.env
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.iml
+
+# Build & Dependency files
+dist/
+build/
+.cache/
+
+# Secret keys & environment files
+.env
+*.pem
+config.json
+credentials.json
+
+# Database files
+*.sqlite3
+*.db
+
+# Other
+*.swp
